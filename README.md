@@ -2,6 +2,9 @@
 
 an SF lightning app that sorts your spotify by bpm
 
+## Design
+![mock ups](https://user-images.githubusercontent.com/9851472/33590949-14f2dc98-d948-11e7-811a-f81907102316.JPG)
+
 ## References
 ### Spotify
 * https://developer.spotify.com/web-api/
